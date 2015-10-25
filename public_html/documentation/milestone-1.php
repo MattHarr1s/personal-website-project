@@ -49,6 +49,6 @@
 	<!-Footer containing contact info for author->
 	<footer>
 		<p>Written by Matt Harris</p>
-		<p>email:<a href="mailto:mateodelay@gmail.com">mateodelay@gmail.com</a></p>
+		<p>email:<a href="mailto:mateodelay@gmail.com"> mateodelay@gmail.com</a></p>
 	</footer>
 </html>

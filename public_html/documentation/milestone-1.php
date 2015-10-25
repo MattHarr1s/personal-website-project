@@ -39,7 +39,16 @@
 			</ol>
 		<!-Current stated goal of "Author Page" project->
 		<h2>Goal</h2>
-
+		<h2>The author page project has a two part goal as follows:</h2>
+			<!-List of goals for project>
+			<ol>
+				<li>Promote and increase visibility and sales of my wife's upcoming novel</li>
+				<li>Attract potential freelance clients looking for a website to promote their works</li>
+			</ol>
 	</body>
-
+	<!-Footer containing contact info for author->
+	<footer>
+		<p>Written by Matt Harris</p>
+		<p>email:<a href="mailto:mateodelay@gmail.com">mateodelay@gmail.com</a></p>
+	</footer>
 </html>

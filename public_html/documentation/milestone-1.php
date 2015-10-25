@@ -35,7 +35,7 @@
 				<li>Fans of the author</li>
 				<li>Fans of the genre</li>
 				<li>E-book readers looking for new material</li>
-				<li>Authors looking for a new website(potential clients)</li>
+				<li>Authors looking for a new website (potential clients)</li>
 			</ol>
 		<!-Current stated goal of "Author Page" project->
 		<h2>Goal</h2>

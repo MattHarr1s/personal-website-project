@@ -29,7 +29,7 @@
 			</ul>
 		<!-Projected audience for "Author Page"->
 		<h2>Audience</h2>
-		<p>The audience for the author page project is listed below from largest to smallest:</p>
+		<p>The audience for the author page project is listed below, in projected usage, from largest to smallest:</p>
 			<!-List of audience most likely to use site, ordered from most to least likely.->
 			<ol>
 				<li>Fans of the author</li>

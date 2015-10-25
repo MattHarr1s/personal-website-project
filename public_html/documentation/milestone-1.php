@@ -39,7 +39,7 @@
 			</ol>
 		<!-Current stated goal of "Author Page" project->
 		<h2>Goal</h2>
-		<h2>The author page project has a two part goal as follows:</h2>
+		<p>The author page project has a two part goal as follows:</p>
 			<!-List of goals for project>
 			<ol>
 				<li>Promote and increase visibility and sales of my wife's upcoming novel</li>

@@ -7,7 +7,7 @@
 	</head>
 	<-Body for Milestone One page->
 	<body>
-		<h1></h1>
+		<h1>Outline of "Author Page" Personal Website Project</h1>
 
 	</body>
 

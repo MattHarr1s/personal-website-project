@@ -17,7 +17,8 @@
 		</p>
 		<!-Potential features of "Author Page" project>
 		<h2>Features of "Author Page"</h2>
-		<p>As an exercise in front-end development, this site will feature individual pages for each work, with convenient
+		<p>As an exercise in front-end development, this site will contain a main page featuring the author's name and
+		most current and popular works, along with individual pages for each work containing convenient
 		links to view the works in 3rd party e-commerce sites(amazon.com, barnesandnoble.com, ect..),
 		provide a mailing list sign-up for fans, a blog, and pages for any other information an
 		author might wish to convey to the public.

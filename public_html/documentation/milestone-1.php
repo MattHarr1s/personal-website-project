@@ -22,7 +22,7 @@
 			<ul>
 				<li>Main page including the author's name, most popular works and newest releases.</li>
 				<li>Pages for each of the author's titles, with links to view the works in 3rd party e-commerce sites
-				(amazon.com, barnesandnoble.com, ect..)</li>
+				(amazon.com, barnesandnoble.com, etc.)</li>
 				<li>Mailing list sign-up</li>
 				<li>Blog</li>
 				<li>Any other features agreed upon by the developer and client</li>

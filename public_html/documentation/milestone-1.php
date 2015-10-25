@@ -17,13 +17,16 @@
 		</p>
 		<!-Potential features of "Author Page" project>
 		<h2>Features of "Author Page"</h2>
-		<p>As an exercise in front-end development, this site will contain a main page featuring the author's name and
-		most current and popular works, along with individual pages for each work containing convenient
-		links to view the works in 3rd party e-commerce sites (amazon.com, barnesandnoble.com, ect..),
-		provide a mailing list sign-up for fans, a blog, and pages for any other information an
-		author might wish to convey to the public.
-		</p>
-
+		<p>As an exercise in front-end development, this site will contain features common to an author page including:</p>
+			<!-List of features->
+			<ul>
+				<li>Main page including the author's name, most popular works and newest releases.</li>
+				<li>Pages for each of the author's titles, with links to view the works in 3rd party e-commerce sites
+				(amazon.com, barnesandnoble.com, ect..)</li>
+				<li>Mailing list sign-up</li>
+				<li>Blog</li>
+				<li>Any other features agreed upon by the developer and client</li>
+			</ul>
 	</body>
 
 </html>

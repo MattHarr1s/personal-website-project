@@ -15,7 +15,7 @@
 			help me secure freelance work creating author pages for the many self-published authors currently using inferior
 			websites to promote their work.
 		</p>
-		<!-Potential features of "Author Page" project
+		<!-Potential features of "Author Page" project>
 		<h2>Features of "Author Page"</h2>
 		<p>As an exercise in front-end development, this site will feature individual pages for each work, with convenient
 		links to view the works in 3rd party e-commerce sites(amazon.com, barnesandnoble.com, ect..),

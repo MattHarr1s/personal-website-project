@@ -27,6 +27,19 @@
 				<li>Blog</li>
 				<li>Any other features agreed upon by the developer and client</li>
 			</ul>
+		<!-Projected audience for "Author Page"->
+		<h2>Audience</h2>
+		<p>The audience for the author page project is listed below from largest to smallest:</p>
+			<!-List of audience most likely to use site, ordered from most to least likely.->
+			<ol>
+				<li>Fans of the author</li>
+				<li>Fans of the genre</li>
+				<li>E-book readers looking for new material</li>
+				<li>Authors looking for a new website(potential clients)</li>
+			</ol>
+		<!-Current stated goal of "Author Page" project->
+		<h2>Goal</h2>
+
 	</body>
 
 </html>

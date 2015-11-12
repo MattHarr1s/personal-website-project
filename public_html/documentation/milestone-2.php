@@ -25,7 +25,33 @@
 			do general web surfing, read the news, send emails, and use social media sites, primarily Facebook. She also has
 			her trusty Kindle Paperwhite and a 2012 Acer Netbook which she rarely uses.</p>
 		<br>
-		<h4>Goals:</h4>
+
+		<p> <h4>Goals:</h4>As a working mother, Andrea lives a busy life which leaves her little time to both read and stay up
+		to date with the authors she is reading. When Andrea starts reading a book by a new author, she wants to quickly find out
+		the size of this author's catalog and the types of works it contains, while taking a break at the office or waiting
+		for dinner to come out of the oven. She usually has about five minutes to get her phone out and find an author's catalog.
+		</p>
+
+		<br>
+		<h2>Use Case</h2>
+		<br>
+		<p>Andrea Baldwin recently started reading an enthralling book by an author she has never heard of. She found the book
+		through a promotion on the Kindle Store and has spent all of her free time reading. She has almost finished the book
+		and is craving the type of adventure this author delivers. </p><p>It is 5:25pm on Wednesday
+		afternoon and Andrea is sitting in her Toyota Sienna in the parking lot of the local soccer complex,
+		waiting for her daughter to get in the van. Her daughter usually is in the van around 5:30 so Andrea doesn't have
+		enough time to finish the book and instead opts to save it for later tonight. Knowing that she will finish the book
+		before the end of the day makes Andrea sad. While waiting for her daughter, she decides to look up the author of the book
+		on her iPhone's Safari browser. After finding the author's page through a Google search, Andrea's interactions
+			with the site are as follows:</p>
+			<ul>
+				<li>Lands on mobile responsive home page.</li>
+				<li>Clicks hamburger button in upper right corner, opening the navigation menu.</li>
+				<li>Clicks the catalog link and views the titles, tag lines, and covers of two books.</li>
+				<li>After delightfully viewing the two book titles, Andrea navigates to the "About Me" page of the Author.
+					Where she spends about one minute reading the author's bio. Andrea bookmarks the page and plans on viewing
+					it on her iPad later that evening</li>
+			</ul>
 
 	</body>
 </html>

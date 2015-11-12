@@ -10,3 +10,10 @@ Your Milestone 1 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/pe
 
 ###To Do
 One pesky thing... in your .gitignore, on line 1, there should be a capital S in "Store". That's all. Overall, your code is great!
+
+##Milestone 2 Feedback
+Awesome job on Milestone 2. Andrea sure sounds like a lady in need of a little romance. Everything here is excellent, and you have a clear direction laid for your PWP. 
+
+Does your wife currently have a mailing list set up, or do we need to set one up for her?
+
+Great job, your Milestone 2 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).

@@ -55,6 +55,22 @@
 		<img src="img/site-map.jpg" alt="site map" height="25%" width="25%">
 		<br>
 		<h2>Proposed Site Map</h2>
+		This author site will have 4 top level pages total. The pages are as follows:
+		<ul>
+			<li>Home Page</li>
+			<li>Catalog</li>
+			<li>Mailing List</li>
+			<li>About Me</li>
+		</ul>
+		<p><h4>Home Page:</h4>The home page will feature the author's name at the top and will display the cover of the
+		author's latest work. There will be anav bar at the top which will display the author's name and a0hamburger button
+		navigation.</p>
+		<p><h4>Catalog:</h4> This page will contain the images of the author's book covers along with their title's and a brief
+		description of the plot. The book images will hopefully link to that book's page in the Kindle Store.</p>
+		<p><h4>Mailing List:</h4>This page will contain a form to sign up for the author's mailing list.</p>
+		<p><h4>About Me:</h4>This page will feature a short biography about the author.Due to the nature of
+		self publishing romance novels, the biography will most likely be partially fictional.</p>
+
 
 
 

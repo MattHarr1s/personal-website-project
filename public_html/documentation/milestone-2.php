@@ -26,7 +26,7 @@
 			her trusty Kindle Paperwhite and a 2012 Acer Netbook which she rarely uses.</p>
 		<br>
 
-		<p> <h4>Goals:</h4>As a working mother, Andrea lives a busy life which leaves her little time to both read and stay up
+		<p><h4>Goals:</h4>As a working mother, Andrea lives a busy life which leaves her little time to both read and stay up
 		to date with the authors she is reading. When Andrea starts reading a book by a new author, she wants to quickly find out
 		the size of this author's catalog and the types of works it contains, while taking a break at the office or waiting
 		for dinner to come out of the oven. She usually has about five minutes to get her phone out and find an author's catalog.
@@ -52,6 +52,11 @@
 					Where she spends about one minute reading the author's bio. Andrea bookmarks the page and plans on viewing
 					it on her iPad later that evening</li>
 			</ul>
+		<img src="public_html/documentation/site-map.jpg" alt="site map">
+		<br>
+		<h2>Proposed Site Map</h2>
+
+
 
 	</body>
 </html>

@@ -68,7 +68,7 @@
 		<p><h4>Catalog:</h4> This page will contain the images of the author's book covers along with their title's and a brief
 		description of the plot. The book images will hopefully link to that book's page in the Kindle Store.</p>
 		<p><h4>Mailing List:</h4>This page will contain a form to sign up for the author's mailing list.</p>
-		<p><h4>About Me:</h4>This page will feature a short biography about the author.Due to the nature of
+		<p><h4>About Me:</h4>This page will feature a short biography about the author. Due to the nature of
 		self publishing romance novels, the biography will most likely be partially fictional.</p>
 
 

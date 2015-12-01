@@ -17,3 +17,6 @@ Awesome job on Milestone 2. Andrea sure sounds like a lady in need of a little r
 Does your wife currently have a mailing list set up, or do we need to set one up for her?
 
 Great job, your Milestone 2 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+## Milestone 3 Feedback
+Great job here Matt. Go ahead and get started on development. This layout will be a breeze using Bootstrap. Your Milestone 3 passes at Tier IV.

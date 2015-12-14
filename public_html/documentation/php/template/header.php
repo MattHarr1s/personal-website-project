@@ -16,23 +16,13 @@
 		<div id="navbar" class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="#">Home</a></li>
-				<li><a href="#about">About</a></li>
-				<li><a href="#contact">Contact</a></li>
-				<li class="dropdown">
-					<button type="button" class="btn btn-default" aria-label="Left Align">
-						<span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-					</button>
+				<li><a href="catalog/index.php">Catalog</a></li>
+				<li><a href="mailing-list/index.php">Mailing List</a> </li>
+				<li><a href="about-me/index.php">About Me</a></li>
 
-					<button type="button" class="glyphicon glyphicon-menu-hamburger">
-						<span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
-					</button>
-						<li><a href="#">Action</a></li>
-						<li><a href="#">Another action</a></li>
-						<li><a href="#">Something else here</a></li>
-						<li role="separator" class="divider"></li>
-						<li class="dropdown-header">Nav header</li>
-						<li><a href="#">Separated link</a></li>
-						<li><a href="#">One more separated link</a></li>
+				<li class="dropdown">
+					<button type="button" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-menu-hamburger"></span></button>
+
 					</ul>
 				</li>
 			</ul>

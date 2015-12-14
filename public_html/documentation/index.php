@@ -1,6 +1,6 @@
 <?php
 $PAGE_TITLE = "Juliana Connors";
-require_once("public_html/documentation/php/template/utilities.php");
+require_once("php/template/utilities.php");
 ?>
 <!DOCTYPE HTML>
 <div class="container">
@@ -13,10 +13,7 @@ require_once("public_html/documentation/php/template/utilities.php");
 		<!-- logo and mobile toggle button get grouped together for better mobile display -->
 		<div class="navbar-header">
 			<!-- this is the mobile menu button -->
-			<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
-				<span class="sr-only">main menu</span>
-				<span class="glyphicon glyphicon-menu-hamburger"></span>
-			</button>
+			<<button type="button" class="btn btn-default btn-lg"> <span class="glyphicon glyphicon-menu-hamburger"></span></button>
 			<a class="navbar-brand" href="#"></a>
 		</div>
 
@@ -42,4 +39,7 @@ require_once("public_html/documentation/php/template/utilities.php");
 			</div>
 		</div>
 </body>
+<footer>
+	<?php require_once("php/template/footer.php");?>
+</footer>
 </div>

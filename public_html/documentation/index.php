@@ -1,7 +1,13 @@
+<?php
+$PAGE_TITLE = "Juliana Connors";
+require_once("public_html/documentation/php/template/utilities.php");
+?>
 <!DOCTYPE HTML>
+<div class="container">
+	<header>
+		<?php require_once("php/template/header.php"); ?>
+	</header>
 
-
-</head>
 <body>
 	<nav class="navbar navbar-inverse">
 		<!-- logo and mobile toggle button get grouped together for better mobile display -->
@@ -37,6 +43,3 @@
 		</div>
 </body>
 </div>
-			<!--button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="navbar"
-					  aria-expanded="false" aria-controls="navbar">
-				<span class="sr-only">Toggle navigation</span>

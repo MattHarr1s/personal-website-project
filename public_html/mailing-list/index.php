@@ -1,7 +1,7 @@
 <?php
 $CURRENT_DIR = __DIR__;
 $PAGE_TITLE = "Mailing List";
-require_once(dirname(__DIR__) . "php/template/utilities.php");
+require_once(dirname(__DIR__) . "/php/template/utilities.php");
 ?>
 <div class="form-group">
 	<div class="form-group">

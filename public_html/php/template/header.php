@@ -1,24 +1,25 @@
-<!-- Fixed navbar -->
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default">
 	<div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
-			<div class="button-group">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+					  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-
-				<a class="navbar-brand">Juliana Conners</a>
+			<a class="navbar-brand" href="<?php echo $PREFIX; ?>">Juliana Conners</a>
 		</div>
-		<div id="navbar" class="collapse navbar-collapse">
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="../index.php">Home</a></li>
-				<li><a href="../catalog/index.php">Catalog</a></li>
-				<li><a href="../mailing-list/index.php">Mailing List</a> </li>
-				<li><a href="../about-me/index.php">About Me</a></li>
+				<li class="active"><a href="<?php echo $PREFIX; ?>">Home</a></li>
+				<li><a href="<?php echo $PREFIX; ?>catalog/index.php">Catalog</a></li>
+				<li><a href="<?php echo $PREFIX; ?>mailing-list/index.php">Mailing List</a></li>
+				<li><a href="<?php echo $PREFIX; ?>about-me/index.php">About Me</a></li>
 			</ul>
-		</div><!--/.nav-collapse -->
-	</div>
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
 </nav>

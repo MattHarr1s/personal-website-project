@@ -1,6 +1,6 @@
 <!-- Footer for Juliana Connors Author Page -->
-<footer class="footer">
-	<div class="container">
+<body class="sfooter">
+	<div class="sfootercontent">
 		<p >Created by www.mattharr.com</p>
 	</div>
-</footer>
+</body>

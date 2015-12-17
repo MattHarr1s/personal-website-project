@@ -29,15 +29,18 @@ require_once("php/template/utilities.php");
 	</nav>
 
 	<!--<div class="container"-->
-			<div class="row">
-				<div class=".col-md-4">
-					todo-matt add image
+	<div class ="container-fluid">
+		<div class="row">
+				<div class=".col-sm-6">
+					<div class ="content-wrap">
+					<img src="../documentation/img/jensen-cover.jpg" alt="jensen cover">
+					</div>
 				</div>
-				<div class=".col-md-offset-4">
+				<div class=".col-sm-6">
 					todo-matt add links
 				</div>
 			</div>
-		</div>
+	</div>
 </body>
 <footer>
 	<?php require_once("php/template/footer.php");?>

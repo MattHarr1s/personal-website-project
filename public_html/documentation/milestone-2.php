@@ -52,7 +52,7 @@
 					Where she spends about one minute reading the author's bio. Andrea bookmarks the page and plans on viewing
 					it on her iPad later that evening</li>
 			</ul>
-		<img src="img/site-map.jpg" alt="site map" height="25%" width="25%">
+		<img src="../img/site-map.jpg" alt="site map" height="25%" width="25%">
 		<br>
 		<h2>Proposed Site Map</h2>
 		This author site will have 4 top level pages total. The pages are as follows:

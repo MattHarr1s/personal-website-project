@@ -1,8 +1,9 @@
 <?php
-$PAGE_TITLE = "Juliana Connors";
-require_once("../php/template/utilities.php");
+$CURRENT_DIR = __DIR__;
+$PAGE_TITLE = "Catalog";
+require_once(dirname(__DIR__) . "/php/template/utilities.php");
 ?>
-<!DOCTYPE HTML>
+
 <div class="container">
 	<header>
 		<?php require_once("../php/template/header.php"); ?>

@@ -9,24 +9,24 @@ require_once("php/template/utilities.php");
 	</header>
 
 <body>
-	<nav class="navbar navbar-inverse">
-		<!-- logo and mobile toggle button get grouped together for better mobile display -->
-		<div class="navbar-header">
-			<!-- this is the mobile menu button -->
-			<<button type="button" class="btn btn-default btn-lg"> <span class="glyphicon glyphicon-menu-hamburger"></span></button>
-			<a class="navbar-brand" href="#"></a>
-		</div>
-
-		<!-- here are your main nav links, grouped for toggling -->
-		<div class="collapse navbar-collapse" id="main-menu">
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Link1</a></li>
-				<li><a href="#">Link2</a></li>
-				<li><a href="#">Link3</a></li>
-			</ul>
-		</div>
-	</nav>
+<!--	<nav class="navbar navbar-inverse">-->
+<!--		<!-- logo and mobile toggle button get grouped together for better mobile display -->-->
+<!--		<div class="navbar-header">-->
+<!--			<!-- this is the mobile menu button -->-->
+<!--			<<button type="button" class="btn btn-default btn-lg"> <span class="glyphicon glyphicon-menu-hamburger"></span></button>-->
+<!--			<a class="navbar-brand" href="#"></a>-->
+<!--		</div>-->
+<!---->
+<!--		<!-- here are your main nav links, grouped for toggling -->-->
+<!--		<div class="collapse navbar-collapse" id="main-menu">-->
+<!--			<ul class="nav navbar-nav navbar-right">-->
+<!--				<li><a href="#">Home</a></li>-->
+<!--				<li><a href="#">Link1</a></li>-->
+<!--				<li><a href="#">Link2</a></li>-->
+<!--				<li><a href="#">Link3</a></li>-->
+<!--			</ul>-->
+<!--		</div>-->
+<!--	</nav>-->
 
 	<!--<div class="container"-->
 	<div class ="container-fluid">

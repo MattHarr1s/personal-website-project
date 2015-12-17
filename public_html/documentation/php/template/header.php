@@ -8,14 +8,14 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand">Juliana Connors</a>
+			<a class="navbar-brand">Juliana Conners</a>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="#">Home</a></li>
-				<li><a href="catalog/index.php">Catalog</a></li>
-				<li><a href="mailing-list/index.php">Mailing List</a> </li>
-				<li><a href="about-me/index.php">About Me</a></li>
+				<li class="active"><a href="../../index.php">Home</a></li>
+				<li><a href="../catalog/index.php">Catalog</a></li>
+				<li><a href="../mailing-list/index.php">Mailing List</a> </li>
+				<li><a href="../about-me/index.php">About Me</a></li>
 			</ul>
 		</div><!--/.nav-collapse -->
 	</div>

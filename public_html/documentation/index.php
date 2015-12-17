@@ -31,7 +31,7 @@ require_once("php/template/utilities.php");
 	<!--<div class="container"-->
 	<div class ="container-fluid">
 		<div class="row">
-				<div class=".col-sm-6">
+				<div class=".col-sm-4">
 					<div class ="content-wrap">
 					<img src="../documentation/img/jensen-cover.jpg" alt="jensen cover">
 					</div>

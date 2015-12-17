@@ -33,7 +33,9 @@ require_once("php/template/utilities.php");
 		<div class="row">
 				<div class=".col-sm-4">
 					<div class ="content-wrap">
-					<img src="../documentation/img/jensen-cover.jpg" alt="jensen cover">
+						<a href="http://www.amazon.com/Jensen-Military-Romance-Bradford-Brothers-ebook/dp/B018MKYDHA/ref=sr_1_sc_1?s=digital-text&ie=UTF8&qid=1450371256&sr=8-1-spell&keywords=julianna+conners" target="_blank">
+							<img src="../documentation/img/jensen-cover.jpg" class="image-fluid" alt="jensen cover" >
+						</a>
 					</div>
 				</div>
 				<div class=".col-sm-6">

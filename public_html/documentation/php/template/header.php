@@ -16,12 +16,6 @@
 				<li><a href="catalog/index.php">Catalog</a></li>
 				<li><a href="mailing-list/index.php">Mailing List</a> </li>
 				<li><a href="about-me/index.php">About Me</a></li>
-
-				<li class="dropdown">
-					<button type="button" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-menu-hamburger"></span></button>
-
-					</ul>
-				</li>
 			</ul>
 		</div><!--/.nav-collapse -->
 	</div>

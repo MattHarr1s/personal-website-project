@@ -17,7 +17,8 @@ require_once("php/template/utilities.php");
 						<div class="text-center">
 							<a href="http://www.amazon.com/Jensen-Military-Romance-Bradford-Brothers-ebook/dp/B018MKYDHA/ref=sr_1_sc_1?s=digital-text&ie=UTF8&qid=1450371256&sr=8-1-spell&keywords=julianna+conners"
 								target="_blank">
-								<img src="img/jensen-cover-500.jpg" class="img-responsive center-block" alt="jensen cover">
+								<img src="img/jensen-cover-500.jpg" class="img-rounded img-responsive center-block"
+									  alt="jensen cover">
 							</a>
 
 							<div class="caption">
@@ -31,7 +32,8 @@ require_once("php/template/utilities.php");
 						<h2 class="text-center ">Coming Soon: Harlow</h2>
 
 						<div class="text-center">
-							<img src="img/harlow-cover-500.jpg" class="img-responsive center-block" alt="jensen cover">
+							<img src="img/harlow-cover-500.jpg" class="img-rounded img-responsive center-block"
+								  alt="jensen cover">
 
 							<div class="caption">
 								<p>Book 2 in the Bradford Brothers Series</p>

@@ -4,8 +4,13 @@
 ***/
 
 /*corrects IE min-height bug*/
-html { display: flex;}
-body { width: 100%;}
+html {
+	display: flex;
+}
+
+body {
+	width: 100%;
+}
 
 .sfooter {
 	display: flex;
@@ -16,6 +21,7 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
-.navbar-header{
-	background-color: gray;
+
+.white-text {
+	color: white !important;
 }
